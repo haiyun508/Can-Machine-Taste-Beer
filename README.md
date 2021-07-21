@@ -1,5 +1,5 @@
 # project-3
-Machine Learning Fun with Beer
+Can This Machine Taste Beer?
 
 ![Beer](beer.jpg)
 
@@ -17,8 +17,12 @@ https://www.kaggle.com/rdoume/beerreviews
 
 Can Machines Taste Differences in Beer Styles? (Neural Network)
 
-The stronger the beer, the higher the rating? (Random Forest) 
-
 Good vs. 'meh..' beers (Random Forest, KNN, Logistic Regression, SVM, GridSearchCV)
 
 Cross-review Regression Analysis (MSE, Lasso, Ridge, Elasticnet)
+
+Principal Component Analysis of Beer Styles
+
+Slides: https://docs.google.com/presentation/d/1irI0SCSxgfk9vhXp-E_Zpq0CwxJ-a8mOuSRQ7Ud_xp0/edit?usp=sharing
+
+Tableau: https://public.tableau.com/app/profile/jeffrey.phan.nguyen/viz/BrewDash/BrewStory?publish=yes
