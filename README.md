@@ -3,7 +3,6 @@ Can This Machine Taste Beer?
 
 ![Beer](beer.jpg)
 
-
 ## Beer Reviews
 
 https://www.kaggle.com/stpeteishii/beer-information-visualize-importance
