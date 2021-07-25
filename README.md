@@ -1,5 +1,4 @@
-# project-3
-Can This Machine Taste Beer?
+# Can This Machine Taste Beer?
 
 ![Beer](beer.jpg)
 
