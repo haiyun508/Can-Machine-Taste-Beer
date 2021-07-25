@@ -1,4 +1,4 @@
-# Can This Machine Taste Beer?
+# Can Machine Taste Beer?
 
 ![Beer](beer.jpg)
 
